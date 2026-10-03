@@ -16,6 +16,10 @@ Is rating driven more by **cost**, **location**, **cuisine**, or
 - **Size:** 51,717 restaurants × 17 columns
 - **Time:** Snapshot (current as of dataset publish)
 
+**Note:** The dataset (547 MB) is not included due to GitHub's 
+file size limits. Download `zomato.csv` from 
+[Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) 
+and place it in the `data/` folder before running the notebook.
 ## 🔍 Key Findings
 
 | # | Finding |
